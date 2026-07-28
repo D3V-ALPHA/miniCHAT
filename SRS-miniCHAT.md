@@ -1,7 +1,7 @@
 # Software Requirements Specification — miniCHAT
 
 **Version:** 1.0
-**Status:** Locked scope — do not expand without explicit sign-off....
+**Status:** Locked scope — do not expand without explicit sign-off.
 
 ---
 
